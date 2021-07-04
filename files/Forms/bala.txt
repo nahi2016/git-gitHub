@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Second commit file
-=======
-Second commit
->>>>>>> e15cdef92f14cfd6506b20cd234e3b4309658dfd
